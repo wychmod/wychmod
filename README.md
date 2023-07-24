@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wychmod&hiden=c,html,tcl&langs_count=3&theme=dark" />
 </a>
 <a href="https://github.com/wychmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&line_height=27&count_private=true&theme=dark" alt="wychmod's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wychmod&show_icons=true&line_height=27&count_private=true&theme=dark" alt="wychmod's GitHub Stats" />
 </a>
 
 
