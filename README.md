@@ -26,7 +26,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/wychmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wychmod&hidens=tcl,c,html&langs_count=3&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wychmod&hide=tcl,c,html&langs_count=3&theme=dark" />
 </a>
 <a href="https://github.com/wychmod">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wychmod&show_icons=true&line_height=27&count_private=true&theme=dark" alt="wychmod's GitHub Stats" />
