@@ -2,7 +2,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=wychmod alt=wychmod /> </p>
 😄很高兴你点开了我的主页
 
-- 🔭 我是一个正在修炼的后端开发实习生
+- 🔭 我是一个后端开发/测试开发，现在在京东工作
 - 🌱 开源了两个个仓库：Openai网关服务、手写Spring
 - 📫 你可以通过微信搜索**tots-and**联系我
 - ⚡ 希望我写下的东西能帮助到你
