@@ -62,15 +62,17 @@
 | **[test-generator](https://github.com/wychmod/test-generator)** | AI 驱动的生产级测试用例生成器：基于 MBT 的五阶段流水线 |
 | **[openai-gateway](https://github.com/wychmod/openai-gateway)** | OpenAI 网关：飞书机器人 OAuth、多 API Key 调度与转发 |
 
-## 📊 GitHub Stats
+## 📊 GitHub 数据
 
-<a href="https://github.com/wychmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wychmod&show_icons=true&line_height=27&count_private=true&theme=dark" alt="wychmod's GitHub Stats" />
-</a>
-<a href="https://github.com/wychmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wychmod&hide=tcl,c,html&langs_count=3&theme=dark&layout=compact" alt="wychmod's Top Languages" />
-</a>
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/wychmod?label=Followers&style=flat-square&color=2bbc8a&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwychmod&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=flat-square&color=2bbc8a&logo=github&logoColor=white)
+![openai-gateway stars](https://img.shields.io/github/stars/wychmod/openai-gateway?label=openai--gateway&style=flat-square&color=2bbc8a&logo=github&logoColor=white)
+![mini-spring stars](https://img.shields.io/github/stars/wychmod/mini-spring?label=mini--spring&style=flat-square&color=2bbc8a&logo=github&logoColor=white)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2bbc8a,50:1a7f64,100:0d1117&section=footer" width="100%" />
